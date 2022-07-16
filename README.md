@@ -64,5 +64,5 @@ Description of each file
 
 ## Authors
 
-* ## [Asare Jonas](https://github.com/sabimbi447/)
-* ## Oluwasegun Ikoya
+* ### [Asare Jonas](https://github.com/sabimbi447/)
+* ### Oluwasegun Ikoya
